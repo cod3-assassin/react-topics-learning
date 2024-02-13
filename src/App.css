@@ -1,0 +1,11 @@
+div {
+    display: flex;
+    justify-content: center;
+
+}
+
+div :nth-child(2) {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
